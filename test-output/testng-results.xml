@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data url From propertyFile]]>
+    </line>
+    <line>
+      <![CDATA[Launching PolicyBazaar]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Homepage SignIn Button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data MobNo From propertyFile]]>
+    </line>
+    <line>
+      <![CDATA[Enter Mobile Number]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on SignIn With Password]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data pwd From propertyFile]]>
+    </line>
+    <line>
+      <![CDATA[Enter enter Password]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking sign In Button]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on My Account]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on My profile]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[switch focus main page to child page]]>
+    </line>
+    <line>
+      <![CDATA[waiting for2000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[This validateUN Started..........]]>
+    </line>
+    <line>
+      <![CDATA[get Actual UN]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data UN From propertyFile]]>
+    </line>
+    <line>
+      <![CDATA[takeing scrrenshot]]>
+    </line>
+    <line>
+      <![CDATA[ScreenShot path is......./home/ubuntu/Desktop/Priyanka/PBScrrenshotvalidateUN.png]]>
+    </line>
+    <line>
+      <![CDATA[This validateUN method run successfully......thanku]]>
+    </line>
+    <line>
+      <![CDATA[Login Out.........]]>
+    </line>
+    <line>
+      <![CDATA[waiting for1000 Mili sec]]>
+    </line>
+    <line>
+      <![CDATA[ClosingBrowser..............]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-03T15:48:14 IST" name="Suite" finished-at="2023-07-03T15:48:39 IST" duration-ms="24976">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T15:48:14 IST" name="Test" finished-at="2023-07-03T15:48:39 IST" duration-ms="24976">
+      <class name="PBtest.PB_TC1234_validateUNUsePropertyFile">
+        <test-method is-config="true" signature="launchPolicyBazaar()[pri:0, instance:PBtest.PB_TC1234_validateUNUsePropertyFile@7e057f43]" started-at="2023-07-03T15:48:14 IST" name="launchPolicyBazaar" finished-at="2023-07-03T15:48:23 IST" duration-ms="8459" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data url From propertyFile]]>
+            </line>
+            <line>
+              <![CDATA[Launching PolicyBazaar]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchPolicyBazaar -->
+        <test-method is-config="true" signature="signIntopolicyBazaar()[pri:0, instance:PBtest.PB_TC1234_validateUNUsePropertyFile@7e057f43]" started-at="2023-07-03T15:48:23 IST" name="signIntopolicyBazaar" finished-at="2023-07-03T15:48:36 IST" duration-ms="13392" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Homepage SignIn Button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data MobNo From propertyFile]]>
+            </line>
+            <line>
+              <![CDATA[Enter Mobile Number]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on SignIn With Password]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data pwd From propertyFile]]>
+            </line>
+            <line>
+              <![CDATA[Enter enter Password]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking sign In Button]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on My Account]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on My profile]]>
+            </line>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[switch focus main page to child page]]>
+            </line>
+            <line>
+              <![CDATA[waiting for2000 Mili sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIntopolicyBazaar -->
+        <test-method signature="validateUN()[pri:0, instance:PBtest.PB_TC1234_validateUNUsePropertyFile@7e057f43]" started-at="2023-07-03T15:48:36 IST" name="validateUN" finished-at="2023-07-03T15:48:38 IST" duration-ms="1387" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This validateUN Started..........]]>
+            </line>
+            <line>
+              <![CDATA[get Actual UN]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data UN From propertyFile]]>
+            </line>
+            <line>
+              <![CDATA[takeing scrrenshot]]>
+            </line>
+            <line>
+              <![CDATA[ScreenShot path is......./home/ubuntu/Desktop/Priyanka/PBScrrenshotvalidateUN.png]]>
+            </line>
+            <line>
+              <![CDATA[This validateUN method run successfully......thanku]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUN -->
+        <test-method is-config="true" signature="LogountFromPolicyBazaar()[pri:0, instance:PBtest.PB_TC1234_validateUNUsePropertyFile@7e057f43]" started-at="2023-07-03T15:48:38 IST" name="LogountFromPolicyBazaar" finished-at="2023-07-03T15:48:38 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Out.........]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogountFromPolicyBazaar -->
+        <test-method is-config="true" signature="closePolicyBazaar()[pri:0, instance:PBtest.PB_TC1234_validateUNUsePropertyFile@7e057f43]" started-at="2023-07-03T15:48:38 IST" name="closePolicyBazaar" finished-at="2023-07-03T15:48:39 IST" duration-ms="1164" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for1000 Mili sec]]>
+            </line>
+            <line>
+              <![CDATA[ClosingBrowser..............]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closePolicyBazaar -->
+      </class> <!-- PBtest.PB_TC1234_validateUNUsePropertyFile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

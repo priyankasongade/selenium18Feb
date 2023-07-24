@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+		<!-- include ==>1 and 3 method run-->	
+      <class name="testNGXML.MyMethodStudy1">
+		  <methods>
+			  <include name="myMethod1"></include>
+			  <include name="myMethod3"></include>
+			  
+		  </methods>
+		  <!-- exclude==>8 sodun sglya method run-->
+      </class>
+      <class name="testNGXML.MYMethodStudy2">
+		  <methods>
+			  <exclude name="myMethod8"></exclude>
+		  </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
